@@ -1,8 +1,5 @@
 # toca-da-capivara
 ### Boas vindas ao meu perfil :blue_heart
-Meu nome é Henrique
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e
-compartilhamento dos meus projetos desenvolvidos
+Nós somos o grupo de vendas
+Estamos aprendendo como criar um site no Javascipt
 ![descrição do GIF](https://media1.tenor.com/m/qofu9GPWMMUAAAAd/capybara-cute.gif)
